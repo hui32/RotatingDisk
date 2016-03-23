@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="luck_rotate">
+        <!-- 旋转图片 必须为圆形且左右对称-->
+        <attr name="lr_platesrc" format="integer"/>
+        <!-- 模块数量（角度必须相同）-->
+        <attr name="lr_count" format="reference"/>
+    </declare-styleable>
+
+
+</resources>
